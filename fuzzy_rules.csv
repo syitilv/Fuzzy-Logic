@@ -1,0 +1,10 @@
+﻿followerCount,engagementRate,result
+high,high,accepted
+high,average,accepted
+high,low,considered
+average,high,accepted
+average,average,considered
+average,low,rejected
+low,high,considered
+low,average,rejected
+low,low,rejected
